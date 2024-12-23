@@ -1,6 +1,5 @@
 # myapp
-
-A new Flutter project.
+Atividade desenvolvida para a atvividade 2 do modulo 11
 
 ## Getting Started
 
